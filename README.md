@@ -2,6 +2,8 @@
 
 Trae Chat is a real-time chat application built with FastAPI and WebSocket, featuring a modern and responsive user interface. This project demonstrates how to create a simple chatbot interface with real-time communication capabilities.
 
+![Screenshot](./docs/screenshot.png)
+
 ## Features
 
 - Real-time messaging using WebSocket
