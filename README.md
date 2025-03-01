@@ -18,8 +18,8 @@ Before you begin, ensure you have Python 3.7+ installed on your system.
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd trae-101
+   git clone https://github.com/rihoneailabs/trae-chat.git
+   cd trae-chat
    ```
 
 2. Install the required dependencies:
