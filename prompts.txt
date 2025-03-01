@@ -1,0 +1,17 @@
+User 1:
+
+I want to build a simple chatbot application using a FastAPI server and a basic HTML template using CSS and Javascript. Help me setup the project
+
+User 2:
+
+Please try generating the index.html file again, it seems a server error occured last time
+
+User 3:
+
+Generate an README file with instructions on how to run this locally. Lets call the project Trae Chat
+
+---
+
+# Bonus
+
+I want to deploy the project to <target platform e.g. Heroku>. How should I proceed
